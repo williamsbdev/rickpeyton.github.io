@@ -9,6 +9,7 @@
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -17,7 +18,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body>
+  <body class="myimage">
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
@@ -29,7 +30,18 @@
         <p>ONE e-mail each Tuesday. Easy to unsubscribe.</p>
         <p>No spam — your e-mail address is <a href="./nospam.html">safe</a></p>
         <hr style="margin: 30px 0 30px 0">
-        <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="input-group">
+              <input type="text" class="input-lg form-control"
+              placeholder="Enter Your Email Address">
+              <span class="input-group-btn">
+                <button class="btn btn-lg btn-success" type="button">Subscribe
+                  Now!</button>
+              </span>
+            </div><!-- /input-group -->
+          </div><!-- /.col-lg-6 -->
+        </div><!-- /.row -->
       </div>
     </div>
   </body>
