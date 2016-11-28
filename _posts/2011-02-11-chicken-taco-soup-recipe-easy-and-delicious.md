@@ -1,6 +1,7 @@
 ---
+layout: post
 category: food
-tags: soups
+tags: soup
 ---
 ![Chicken Taco Soup Recipe Easy and Delicious](/images/chicken-taco-soup-recipe-easy-and-delicious.jpg "Chicken Taco Soup Recipe Easy and Delicious")
 
