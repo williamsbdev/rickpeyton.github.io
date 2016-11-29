@@ -24,7 +24,7 @@ github_username:  rickpeyton
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: rickpeyton-theme
 gems:
   - jekyll-feed
 exclude:
