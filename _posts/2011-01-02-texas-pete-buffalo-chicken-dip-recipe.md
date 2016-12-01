@@ -1,5 +1,6 @@
 ---
 layout: post
+description: If you love chicken wings but need something less messy for your gathering then this Texas Pete Buffalo Chicken Dip Recipe will blow you away.
 category: food
 ---
 <img itemprop="image" src="/images/buffalo-chicken-wing-dip-texas-pete.jpg" alt="Texas Pete Buffalo Chicken Dip Recipe" title="Texas Pete Buffalo Chicken Dip Recipe">

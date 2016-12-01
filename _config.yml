@@ -31,3 +31,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
 timezone: America/Chicago
+
+collections:
+  posts:
+    output: true
+    permalink: /post/:title/

@@ -1,3 +1,9 @@
+PATH
+  remote: /Users/rick/rails-apps/rickpeyton-theme
+  specs:
+    rickpeyton-theme (0.1.0)
+      jekyll (~> 3.3)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -35,8 +41,6 @@ GEM
     rb-fsevent (0.9.8)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
-    rickpeyton-theme (0.1.0)
-      jekyll (~> 3.3)
     rouge (1.11.1)
     safe_yaml (1.0.4)
     sass (3.4.22)
@@ -47,7 +51,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (= 3.3.1)
   jekyll-feed (~> 0.6)
-  rickpeyton-theme
+  rickpeyton-theme!
 
 RUBY VERSION
    ruby 2.3.1p112
